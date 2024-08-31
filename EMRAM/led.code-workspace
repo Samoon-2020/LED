@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"c-cpp-flylint.flexelint.enable": true,
+		"c-cpp-flylint.enable": false
+	}
+}

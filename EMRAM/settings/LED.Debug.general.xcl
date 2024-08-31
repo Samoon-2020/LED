@@ -1,0 +1,13 @@
+"D:\0_Software_install\IAR Systems\Embedded Workbench 9.2\arm\bin\armPROC.dll" 
+
+"D:\0_Software_install\IAR Systems\Embedded Workbench 9.2\arm\bin\armSIM2.dll" 
+
+"C:\Users\28099\Desktop\led\EMRAM\Debug\Exe\LED.out" 
+
+--plugin="D:\0_Software_install\IAR Systems\Embedded Workbench 9.2\arm\bin\armbat.dll" 
+
+--device_macro="D:\0_Software_install\IAR Systems\Embedded Workbench 9.2\arm/config/debugger/ST/STM32F4xx.dmac" 
+
+
+
+
